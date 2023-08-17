@@ -10,7 +10,7 @@ The script reads an SVG file and extracts the path data from it. It then convert
 
 ```
 1. Clone the repository:
-> git clone https://github.com/hoangmanhkhiem/draw-luffy-with-svg.git
+> git clone https://github.com/hoangmanhkhiem/Draw-Dragon-VietNam-With-SVG.git
 
 2. Change into the project directory:
 > cd draw-luffy-with-svg
